@@ -3,7 +3,7 @@
 <h3>npm packeges:</h3>
 <ul>
   <li>nodemon</li>
-  <li>body-parse</li>
+  <li>body-parser</li>
   <li>express</li>
   <li>sqlite3</li>
 </ul>
